@@ -1,2 +1,2 @@
-# class_CoffeeMachine
-first step in OOP
+class_CoffeeMachine
+
